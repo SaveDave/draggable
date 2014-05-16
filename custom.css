@@ -1,0 +1,70 @@
+.background{
+    color: #FFFFFF;
+    background-color: #000000;
+    background: url('img/background.jpg') no-repeat;
+    background-size: 100%;
+    height: 750px;
+    border-radius: 0px;
+    background-position: center;
+    vertical-align: top;
+    background-position: top;
+
+}
+.heading{
+	font-family:'Raleway',Helvetica,Arial,sans-serif;
+	color:#CCCCCC;
+	font-size:60px;
+	text-align:center;
+	margin-top:200px;
+}
+.button{
+	background-color:#4B9500;
+    margin-top: 100px;
+    margin-left: 400px;
+    position: static;
+    display: block;
+    width: 220px;
+    margin: 85px auto 110px;
+    padding: 18px 0px 16px;
+    border: 0px solid black;
+    border-radius: 3px;
+    background-color: #2abb9b;
+    font-family: sans-serif;
+    color: white;
+    font-size: 18px;
+    font-weight: 100;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.main-text{text-align: center;
+    padding: 15px;
+    color: #999;
+    font-size:50px;
+}
+.card{
+	border:0px solid blue;
+	height:80px;
+	width: 80%;
+	font-size: 25px;
+	color: #CCCCCC;
+	border-radius:5px;
+	margin: 15px;
+	background-color: #0099CC;
+	box-shadow: 0px 0px 8px #1f2afe;
+	text-align: center;
+	padding-top: 20px;
+    cursor: move
+}
+
+.pane{
+	border:0px solid blue;
+	font-size: 25px;
+	color: #CCCCCC;
+	border-radius:5px;
+	margin: 15px;
+	background-color: #E0E0E0;
+	box-shadow: 0px 0px 8px #1f2afe;
+	text-align: center;
+	padding: 20px;
+}
